@@ -1,5 +1,5 @@
 ![Build Status](https://travis-ci.org/async69/mobx-paginator-example.svg?branch=master)
-![Dev Status](https://badge.fury.io/js/mobx.svg)
+![Mobx Version](https://badge.fury.io/js/mobx.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
