@@ -8,7 +8,7 @@ const PostList = () => {
     const { currentPage, loadPosts, posts, pageSize } = postStore
     const [filteredPosts, setPosts] = useState<IPost[]>([])
 
-    useEffect(() => {
+    useEffect(() => { 
         loadPosts()
         var start = (currentPage - 1) * pageSize
         var newOnes = posts.slice(start, posts.length)
